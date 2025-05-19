@@ -1,0 +1,618 @@
+[
+    {
+        "soru": "Ders programı nedir?",
+        "cevap": "Ders Programı okulumuz web sitesi https://emonerandl.meb.k12.tr/ da mevcuttur."
+    },
+    {
+        "soru": "Kantin saat kaçta açılıyor?",
+        "cevap": "Kantin saat 7.30'dan itibaren açık olmaktadır."
+    },
+    {
+        "soru": "Öğretmenler odası nerede?",
+        "cevap": "A kapısından giriş yaparak 1. kata çıktığınızda sağınızda kalmakta."
+    },
+    {
+        "soru": "Devamsızlık hakkı kaç gün?",
+        "cevap": "20 gün özürlü, 10 gün özürsüz devamsızılık hakkınız bulunmakta"
+    },
+    {
+        "soru": "Mezuniyet not ortalaması kaç olmalı?",
+        "cevap": "50 puan ortalama gerekmektedir"
+    },
+    {
+        "soru": "Okul servisi saat kaçta geliyor?",
+        "cevap": "Okul çıkışında okuldan hareketmektedir, sabah saatleri için yetkili ile iletişime geçin."
+    },
+    {
+        "soru": "Sınav haftası ne zaman başlıyor?",
+        "cevap": "Sınav takvimi okulumuz web sitesi https://emonerandl.meb.k12.tr/ da mevcuttur."
+    },
+    {
+        "soru": "Belge almak için nereye gitmeliyim?",
+        "cevap": "Belgelerin çok büyk kısmı e devlet üzerinden alınabilmektedir, aksi halde memur ile ileitşime geçiniz."
+    },
+    {
+        "soru": "Rehberlik servisi hangi günler açık?",
+        "cevap": "Haftanın her günü aktifitr. Gitmeden önce ki günlerde randevu almayı unutmayınız."
+    },
+    {
+        "soru": "Okul kütüphanesi saat kaçta kapanıyor?",
+        "cevap": "Saat 16.00 itibari ile kapanmaktadır"
+    },
+    {
+        "soru": "Öğrenci belgesi nasıl alınır?",
+        "cevap": "E devlet portalı üzerindne temin edilebilmektedir."
+    },
+    {
+        "soru": "Öğretmen görüşme saatleri nedir?",
+        "cevap": "Öğretmen görüşme saatleri okulumuz web sitesi https://emonerandl.meb.k12.tr/ da mevcuttur."
+    },
+    {
+        "soru": "Devamsızlık sildirme işlemi nasıl yapılır?",
+        "cevap": "Okul memuru tarafından yapılmaktadır. Öğrenciler bu işlemi velisi yanında bulunmadan gerçekleştiremez."
+    },
+    {
+        "soru": "Derse kabul belgesi nasıl alınır?",
+        "cevap": "Okul memuru veya idarecilerden alınabilmektedir."
+    },
+    {
+        "soru": "Kayıt için hangi belgeler gerekiyor?",
+        "cevap": "Kayıt için gerkeli belgeler okulumuz web sitesi https://emonerandl.meb.k12.tr/ da mevcuttur."
+    },
+    {
+        "soru": "Kayıt tarihleri ne zaman başlıyor?",
+        "cevap": "Kayıt tarihler okul terchilerinin açıklanmasının ardından belirtilecektir."
+    },
+    {
+        "soru": "Servis kaydı nasıl yapılır?",
+        "cevap": "Servis yetkilisi ile iletişime geçebilrisniz"
+    },
+    {
+        "soru": "Veli toplantıları ne zaman yapılıyor?",
+        "cevap": "Veli toplantıları düzenli arlaıklarla yapılıyor olup öncesinde web sitesi ve whatsapp grupları üzerinden bilgilendirme yapılmaktadır."
+    },
+    {
+        "soru": "Rehberlik servisine nasıl ulaşabilirim?",
+        "cevap": "Rehberlik odalarından kendilerine ulaşabilrisiniz."
+    },
+    {
+        "soru": "Yemekhane hizmeti var mı, varsa ücretli mi?",
+        "cevap": "Yemekhane mevcut değil."
+    },
+    {
+        "soru": "Okul kıyafeti nereden alınır?",
+        "cevap": "Okul kıyafetleri okula kayıt esnasında doğrudan okuldan temin edilir, daha sonra ise okul aile birliği tarafından sağlanır."
+    },
+    {
+        "soru": "Sabah kaçta okul başlıyor, kaçta bitiyor?",
+        "cevap": "8.00 itibari ile ilk ders zili çalıp 15.00 itibariyle sona ermektedir."
+    },
+    {
+        "soru": "Ders kitapları okuldan mı veriliyor?",
+        "cevap": "Ders kitapları okulun ilk günü dağıtılmaktadır."
+    },
+    {
+        "soru": "Eğitim yılı ne zaman başlıyor ve ne zaman bitiyor?",
+        "cevap": "Eylül Ayının 2. haftası başlayıp Haziran ayının 2. haftası sona ermektedir."
+    },
+    {
+        "soru": "Okula cep telefonu getirmek serbest mi?",
+        "cevap": "Okula cep telefonu getirmek serbesttir ancak ders saatleri süresince öğrencilerin yanında bulundurması yasaktır."
+    },
+    {
+        "soru": "Öğrencinin sağlık durumu için bilgi vermem gerekiyor mu?",
+        "cevap": "Okula kayıt esnasında gerekli temel bilgiler temin edilip daha sonra da alınabilmektedir, Hastalık drumunda okula bildirilmesi iyi olacaktır."
+    },
+    {
+        "soru": "Veli olarak okulda görüşme yapmam gerektiğinde ne yapmalıyım?",
+        "cevap": "Görüşmek istediğiniz birimin/ öğretmenin görüşme saatlerinde okula gelerek görüşebilrisniz."
+    },
+    {
+        "soru": "Okula geç kalınırsa ne yapılmalı?",
+        "cevap": "Geç kağıdı alınarak derse dahil olunmalıdır"
+    },
+    {
+        "soru": "Sınıf listeleri nereden öğrenilebilir?",
+        "cevap": "E okul ve EBA üzerinden öğrenilebilmektedir."
+    },
+    {
+        "soru": "Sınav notları ne zaman sisteme giriliyor?",
+        "cevap": "Sınav döneminden sonra ki 2 haftalık süre içinde."
+    },
+    {
+        "soru": "E-okul şifresi nasıl alınır?",
+        "cevap": "Velinizin e devleti üzerinden alınmaktadır."
+    },
+    {
+        "soru": "Raporlu olduğum günlerde sınavlara nasıl girerim?",
+        "cevap": "Raporunuzu tebliğ ederek telafi sınavlarına girebilirisniz."
+    },
+    {
+        "soru": "Disiplin puanım düşerse ne olur?",
+        "cevap": "Alt limitlere yaklaşması durumunda farklı cezaları mevcuttur."
+    },
+    {
+        "soru": "Sosyal etkinlik puanı nasıl toplanır?",
+        "cevap": "Okulumuzda mevcut değildir."
+    },
+    {
+        "soru": "Kulüplere nasıl başvurabilirim?",
+        "cevap": "Kulüp alımları sene başında yapılamktadır, sene ortasınd ailgili kulbün öğretmeni ile iletişime geçmeniz gerekemtedir."
+    },
+    {
+        "soru": "Okulda kaç çeşit kulüp var?",
+        "cevap": "15 üzeri kulübümüz mevcut."
+    },
+    {
+        "soru": "Staj yapan öğrenciler hangi belgelere ihtiyaç duyar?",
+        "cevap": "Staj yapılamamaktadır."
+    },
+    {
+        "soru": "Geç kalan öğrenci sınıfa alınır mı?",
+        "cevap": "Derse kabul kağıdı ile alınmaktadır."
+    },
+    {
+        "soru": "Nöbetçi öğretmen kim? Nerede bulabilirim?",
+        "cevap": "Kolidorlarda nöbetçi maslarında bulabilrisniz."
+    },
+    {
+        "soru": "Okulda kayıp eşya nereye teslim edilir?",
+        "cevap": "Okul memuruna teslim edebilirsiniz."
+    },
+    {
+        "soru": "Kütüphane üyeliği nasıl yapılır?",
+        "cevap": "Kütüphane görevlisi öğrenciler ile iletşime geçerek kayıt işlemlerini yapabilrisiniz."
+    },
+    {
+        "soru": "Sportif faaliyetlere katılmak için ne yapmak gerekir?",
+        "cevap": "Beden eğitimi çğretmenlerimiz ile iletşime geçebilirsiniz."
+    },
+    {
+        "soru": "Laboratuvar kullanımı için izin gerekir mi?",
+        "cevap": "Biyoloji ve Fizik öğretmenlerinden izin almanız gerekmektedir."
+    },
+    {
+        "soru": "Kantinde yemek fiyatları neye göre belirleniyor?",
+        "cevap": "Bakanlığın belirlediği fiyat çizelgesine göre belirlenmektedir."
+    },
+    {
+        "soru": "Öğrenci kimlik kartı yenileme işlemi nasıl yapılır?",
+        "cevap": "Müdür yardımcıları ile iletşime geçmeniz gerekmektedir."
+    },
+    {
+        "soru": "Nakil işlemi nasıl gerçekleştirilir?",
+        "cevap": "Nakil süreci e okul ve okul memurundan ilerleyen bir süreçtir. Hakkında detaylı bilgi internet üzerinde mevcuttur"
+    },
+    {
+        "soru": "Transkript belgesi nasıl alınır?",
+        "cevap": "Okul memurundan alınmaktadır."
+    },
+    {
+        "soru": "Mezuniyet belgesi ne zaman verilir?",
+        "cevap": "Resmi okul dönemi sona erdiğinde alınabilmektedir."
+    },
+    {
+        "soru": "Öğrenci belgesi kaç günde hazırlanır?",
+        "cevap": "İstendiği an teslim edilir."
+    },
+    {
+        "soru": "Devamsızlık itiraz dilekçesi nasıl hazırlanır?",
+        "cevap": "Okul yönetimine resmi bir ağızla yazılır, içinde devamsılık ve sebebi hakkında bilgi bulunmalıdır."
+    },
+    {
+        "soru": "Okul kaydı sildirme işlemi nasıl yapılır?",
+        "cevap": "Okul memuru üzerinden yapılmaktadır."
+    },
+    {
+        "soru": "Takdir veya teşekkür belgesi nasıl alınır?",
+        "cevap": "Karne ortalması ile alınmaktadır 70 ve 85 ortalama barajları bulunmaktadır."
+    },
+    {
+        "soru": "Disiplin cezası alındığında veliye bildirilir mi?",
+        "cevap": "Evet, gerekli kanallar velilerle iletişime gçer ve bildirir."
+    },
+    {
+        "soru": "Veli izin dilekçesi nereden alınır?",
+        "cevap": "Okul memurundan alınır."
+    },
+    {
+        "soru": "Geçerli mazeretle sınava giremeyen öğrenci ne yapmalı?",
+        "cevap": "Raporunu veya dilekçesini ibraz ederek telafi sınavına girmelidir."
+    },
+    {
+        "soru": "Sağlık raporunun geçerli olması için şartlar nedir?",
+        "cevap": "Resmi makamlardan alınıp ıslak imzalı olmalıdır, Son 6 ay içinde alınmalıdır."
+    },
+    {
+        "soru": "Adres değişikliğinde okul bilgilendirilmeli mi?",
+        "cevap": "Bildirlmeli ve güncellenmelidir."
+    },
+    {
+        "soru": "Öğrencinin adı değişirse belge işlemleri nasıl yapılır?",
+        "cevap": "Okul memuru üzerinden yapılmaktadır."
+    },
+    {
+        "soru": "Öğrencinin T.C. kimlik numarası değişirse okul ne yapar?",
+        "cevap": "Okul sistemde gerekli değişiklikleri yapar."
+    },
+    {
+        "soru": "Okulda üniforma zorunlu mu?",
+        "cevap": "Okulda üniforma zorunludur."
+    },
+    {
+        "soru": "Saç ve sakal kuralları var mı?",
+        "cevap": "Okul ortamına uygun bir saç ve sinek kaydı traş gerekliliği vardır."
+    },
+    {
+        "soru": "Sınıfta telefon kullanmak yasak mı?",
+        "cevap": "Okul saatleri içerinde akıllı cihaz kullanmak yasaktır, tespiti durumunda cihaza el konur."
+    },
+    {
+        "soru": "Derse geç kalan öğrenci ceza alır mı?",
+        "cevap": "Derse geç gelen öğrenci yok yazılır, istenirse disiplin cezası uygulanır."
+    },
+    {
+        "soru": "Okulda sigara içmenin cezası nedir?",
+        "cevap": "İlk ceza da kınama ve ardından farklı cezalar mevcuttur."
+    },
+    {
+        "soru": "Mola süresi kaç dakikadır?",
+        "cevap": "10 dakika normal tenefüs süresi ve 40 dkaika uzun tenefüs süresi vardır."
+    },
+    {
+        "soru": "Öğle arası ne kadar sürüyor?",
+        "cevap": "Öğle arası 40 dakika sürmektedir."
+    },
+    {
+        "soru": "Okul çıkışı kaçta olur?",
+        "cevap": "Dersler saat 15.00 da bitmektedir."
+    },
+    {
+        "soru": "Acil tahliye tatbikatı ne zaman yapılır?",
+        "cevap": "Yılın planlanan dönemlerinde afet ve acil durumlar için gerkeli tatbikat ve planlamalar yapılır."
+    },
+    {
+        "soru": "Elektronik cihazlar için emanet yeri var mı?",
+        "cevap": "Telefonlar kutularda toplanarak küütphanede muahfaza edilmektedir."
+    },
+    {
+        "soru": "Veli bilgilendirme sistemi nasıl çalışıyor?",
+        "cevap": "Veli bilgilendirme sistemi notlar ve bazı noktalarda e okul üzerinden, okul ile ilgili olan süreçlerde Whatsapp grupları üzerinden yapılmaktadır."
+    },
+    {
+        "soru": "Sınav sonuçları veliye bildiriliyor mu?",
+        "cevap": "E okul üzerinden yapılmaktadır."
+    },
+    {
+        "soru": "Öğrencinin psikolojik durumu için kimle görüşülür?",
+        "cevap": "Rehberlik ve PDR servisi ile görüşebilirsiniz."
+    },
+    {
+        "soru": "Veli toplantısına katılmayanlara ne olur?",
+        "cevap": "Veli toplantısına katılmayan veliler güncel duyurular ve öğrenci durumları hakkında yapılan bildirilerden mahrum kalabilir."
+    },
+    {
+        "soru": "Veli rehberlik görüşmesini nasıl planlayabilir?",
+        "cevap": "Okul ile iletişime geçerek bu kontada gerekli randevuları alabilirler."
+    },
+    {
+        "soru": "Öğrencinin başarısı düşükse veli aranır mı?",
+        "cevap": "Öğrencinin başarısı ciddi oranda düşükse velisi aranarak bilgilendirilir ve gerekli adımalrın atılması sağlanır."
+    },
+    {
+        "soru": "Veli sistemden hangi bilgilere ulaşabilir?",
+        "cevap": "VBS üzerinden not bilgisine, karnelere, belgelere vb ulaşılabilir."
+    },
+    {
+        "soru": "Acil durumlarda veliye nasıl ulaşılır?",
+        "cevap": "Telefon numaraları üzerinden ulaşılabilir."
+    },
+    {
+        "soru": "Veli öğrencinin sınıf değiştirmesini talep edebilir mi?",
+        "cevap": "Talep edilebilir ancak üst düzey durumalr harinde uygulamaya konulmamaktadır."
+    },
+    {
+        "soru": "Kardeşi aynı okulda okuyan velilere özel uygulama var mı?",
+        "cevap": "Ayrıcalık tanınmamaktadır."
+    },
+    {
+        "soru": "E-okul sistemine nasıl giriş yapılır?",
+        "cevap": "Web sitesi ve mobil uygulama üzerinden giriş yapabilirsiniz."
+    },
+    {
+        "soru": "Karne e-okuldan görüntülenebilir mi?",
+        "cevap": "Evet görüntülenebilir."
+    },
+    {
+        "soru": "e-Devlet’ten alınan belgeler geçerli mi?",
+        "cevap": "Evet geçerlidir."
+    },
+    {
+        "soru": "Okul web sitesinde hangi bilgiler var?",
+        "cevap": "Ders programı, güncel haberler, konum ve ulaşım bilgileri gibi çeşitli bilgilere ulaşılabilir."
+    },
+    {
+        "soru": "Veli bilgilendirme SMS sistemi nasıl aktif edilir?",
+        "cevap": "Okul yönetimi tarafından aktif edilmektedir."
+    },
+    {
+        "soru": "Okul duyurularını nereden takip edebilirim?",
+        "cevap": "Web sitesi, sms ve Whatsapp grupları üzerinden takip edilebilir"
+    },
+    {
+        "soru": "Öğrenci numaramı unuttum, ne yapmalıyım?",
+        "cevap": "E okul veya Memurdan bilgi alabilrisiniz."
+    },
+    {
+        "soru": "e-Karne ne zaman yayınlanır?",
+        "cevap": "E karne resmi karne gününde yayınlanmaktadır."
+    },
+    {
+        "soru": "Öğrenci portalı şifremi unuttum, ne yapmalıyım?",
+        "cevap": "Şifrenizi doğrulama kodu alarak sıfırlayabilrisiniz."
+    },
+    {
+        "soru": "Öğrenci ders seçimini nereden yapar?",
+        "cevap": "Öğreciler alan seçimlerini sene başında yapmaktadırlar"
+    },
+    {
+        "soru": "Mezuniyet sonrası okuldan hangi belgeler alınmalı?",
+        "cevap": "Diploma, mezuniyet belgesi ve not dökümü"
+    },
+    {
+        "soru": "Mezunlar transkript almak için ne yapmalı?",
+        "cevap": "Okul memuruna başvurabilir"
+    },
+    {
+        "soru": "Mezuniyet töreni bilgileri nerede yayınlanır?",
+        "cevap": "Whatsapp grubunda paylaşılır."
+    },
+    {
+        "soru": "Mezunlar öğrenci kartını iade etmeli mi?",
+        "cevap": "Hayır onlarda kalabilmrktedir."
+    },
+    {
+        "soru": "Mezuniyet sonrası okul kaydı ne zaman kapanır?",
+        "cevap": "okulun resmi kapanış tarihinde kapanacktır."
+    },
+    {
+        "soru": "Mezun olanlar okulun sosyal medya gruplarına dahil olabilir mi?",
+        "cevap": "Evet, okulun resmi hesaplarına herkes dahil olabilir."
+    },
+    {
+        "soru": "Mezuniyet yıllığında isim yazdırmak için ne yapılmalı?",
+        "cevap": "İsim yazdıracak kişinin sınıf öğretmeni ile iletişime geçmesi gereklidir."
+    },
+    {
+        "soru": "Mezuniyet kıyafeti okuldan mı alınır?",
+        "cevap": "Evet mezuniyet öncesi ücreti karşılığında geçici olarak teslim edilmektedir."
+    },
+    {
+        "soru": "Mezuniyet sonrası okul e-posta adresi aktif kalır mı?",
+        "cevap": "Hayır, k12 uzantılı mail adresleri kendisini kapatmaktadır."
+    },
+    {
+        "soru": "Mezunlar okulda staj yapabilir mi?",
+        "cevap": "staj doneminiz geldiğinde ilgili kişilerle görüşebilirsiniz."
+    },
+    {
+        "soru": "Öğrenci sosyal medya hesaplarında okul ismini kullanabilir mi?",
+        "cevap": "Öğrencilerin sosyal medya hesaplarında okul ismini kullanmaları yasaktır."
+    },
+    {
+        "soru": "Disiplin cezası alan öğrenci ne zaman bilgilendirilir?",
+        "cevap": "Disiplin kurulu kararı verdikten sonra öğrenciye bilgi verilecektir."
+    },
+    {
+        "soru": "Disiplin cezası alan veliye yazılı bildirim yapılır mı?",
+        "cevap": "Gerekli kanallar üzerinden velilere bildirim yapılmaktadır."
+    },
+    {
+        "soru": "Kınama cezası nedir, hangi durumlarda verilir?",
+        "cevap": "Bütün durumlar devletin yayınlamış olduğu makalede detaylı şekilde anlatılmıştır."
+    },
+    {
+        "soru": "Okuldan uzaklaştırma cezası kaç gün olabilir?",
+        "cevap": "Bir ila beş gün arasında uzaklaştırılabilir."
+    },
+    {
+        "soru": "Disiplin puanı kaçtan başlar?",
+        "cevap": "Her öğrencinin dönem yılı başıda puanı yüzdür."
+    },
+    {
+        "soru": "Disiplin kurulu nasıl toplanır, kimler katılır?",
+        "cevap": "eğer ki disiplinlik bir durum varsa kurul toplanır. bu kurul seçilmiş öğretmenlerden oluşur"
+    },
+    {
+        "soru": "Disiplin cezası sicile işler mi?",
+        "cevap": "Evet kişinin siciline aldığı ceza ve yaptığı hareketler işlenir. Gelecekte siciline yansır."
+    },
+    {
+        "soru": "Uyarı cezası alan öğrenci yeniden ceza alırsa ne olur?",
+        "cevap": "Öğrenciye bir sonraki cezasında kınama cezası uygulanır."
+    },
+    {
+        "soru": "Disiplin cezasına itiraz edilebilir mi?",
+        "cevap": "Disiplin kurlunun kararının tebliğinden itibaren 7 gün içinde itiraz edilebilir."
+    },
+    {
+        "soru": "Disiplin cezası affı var mı?",
+        "cevap": "Disiplin kurulunda cezanın kaldırılmasına ve ceza puanının iadesine karar verilebilir."
+    },
+    {
+        "soru": "Kayıt sırasında adres uyuşmazlığı olursa ne yapılır?",
+        "cevap": "Okulumuz adres tabanlı bir okul değildir. istediğiniz adresten kayıt yapabilirsiniz."
+    },
+    {
+        "soru": "Veli bilgileri değişirse okul nasıl bilgilendirilir?",
+        "cevap": "Okul memuru veya sınıf öğretmeniniz ile ileitşime geçebilirsiniz."
+    },
+    {
+        "soru": "Öğrenciye zimmetli kitaplar ne zaman iade edilir?",
+        "cevap": "Kitaplar yönetmelikte toplanmamaktadır. Ancak okulumuzda geri dönüşüm amaçlı toplanmaktadır."
+    },
+    {
+        "soru": "Öğrencinin karnesi kaybolursa yeniden nasıl çıkarılır?",
+        "cevap": "Eokul VBS sistemi üzerinden"
+    },
+    {
+        "soru": "Yedek kıyafet getirmek zorunlu mu?",
+        "cevap": "Okula yedek kıyafet getirmek gibi bir zorunluk yoktur."
+    },
+    {
+        "soru": "Sınıf başkanı nasıl seçilir?",
+        "cevap": "Sınıflarda yapılan oylama ile seçilir,"
+    },
+    {
+        "soru": "Öğrencinin okula devam zorunluluğu kaç gün?",
+        "cevap": "Devamsızlık süresi özürsüz (raporsuz) olarak 10 gün, özürlü (raporlu) olarak 20 gün olmak üzere toplamda 30 gündür."
+    },
+    {
+        "soru": "Öğrenciler sınıf değiştirebilir mi?",
+        "cevap": "Zorunlu durumlar haricinde yapılmamaktadır."
+    },
+    {
+        "soru": "Okul bahçesinde top oynamak serbest mi?",
+        "cevap": "Okul bahçesinde sınav zamanları haricinde top oynamak serbesttir."
+    },
+    {
+        "soru": "Okulda fotoğraf çekmek yasak mı?",
+        "cevap": "Ders saatleri içerisinde telefon kullanmak ve bulundurmak yasaktır."
+    },
+    {
+        "soru": "Etkinlik günü okul kıyafeti zorunlu mu?",
+        "cevap": "Okul kıyafeti aksi belirtilmediği sürece okulda giyilmesi zorunludur."
+    },
+    {
+        "soru": "Geziler için izin belgesi nereden alınır?",
+        "cevap": "Gezi öncesi sınıflarda dağıtımı gerçekleşmektedir."
+    },
+    {
+        "soru": "Spor kulübü dışındaki kulüplere katılmak zorunlu mu?",
+        "cevap": "Her öğenci zorunlu olarak bir adet kulüp seçimi yapmaktadır."
+    },
+    {
+        "soru": "Müzik odasını kullanmak için izin gerekiyor mu?",
+        "cevap": "Müzik odası açık oldupu ve ders işlenmediğ sürece kullanılabilmektedir."
+    },
+    {
+        "soru": "Bilgisayar odası hangi saatlerde açık?",
+        "cevap": "Bilgidayar odası ders saatlerinde açık olup kullanılabilmektedir."
+    },
+    {
+        "soru": "Öğrenciler okul içinde telefonla konuşabilir mi?",
+        "cevap": "Ders saatleri içerisinde telefon kullanmak ve bulundurmak yasaktır."
+    },
+    {
+        "soru": "Öğrenci kulüp değişikliği yapabilir mi?",
+        "cevap": "Evet sınıf öğretmenine bildirerek değişiklik talep edebilir."
+    },
+    {
+        "soru": "Öğrenciler istedikleri dersi seçebilir mi?",
+        "cevap": "Okulumuzda öğrenciler müzik ve resim dersi arasında seçim yapmaktadırlar."
+    },
+    {
+        "soru": "Kardeş kontenjanı kayıt sırasında geçerli mi?",
+        "cevap": "Kardeş kontanjanı sistemi bizde geçerli değildir."
+    },
+    {
+        "soru": "Kayıtlı olduğum sınıfı nereden öğrenirim?",
+        "cevap": "kayıt olmaya geldiğiniz gün öğrenebilirsiniz."
+    },
+    {
+        "soru": "Okul servisinde yer kalmazsa ne yapılır?",
+        "cevap": "Yeterli sayıda öğrenci talebi olursa yeni bir servis daha açılabilir. Aksi halde toplu taşıma veya özel araç ile ulaşım sağlanması gerekmektedir."
+    },
+    {
+        "soru": "Yıl içinde öğretmen değişikliği olursa bilgi verilir mi?",
+        "cevap": "Evet öğretmen kadrosunda yapılan değişiklikler hakkında bilgi verilmektedir."
+    },
+    {
+        "soru": "Okul aidatı var mı, varsa ne kadar?",
+        "cevap": "Okul aidatı yoktur, ilk kez kayıt olan 9.sınıf öğrencilerimiz kayıt giderleri ve kıyafet için belirli bir miktarda ödeme yapmaktadırlar."
+    },
+    {
+        "soru": "Öğrenciler okul dışında forma giymek zorunda mı?",
+        "cevap": "Öğrenciler okul dışında forma giymek zorunda değildir."
+    },
+    {
+        "soru": "Kütüphanede grup çalışması yapılabilir mi?",
+        "cevap": "Gerekli izinler alındığında yapılabilmektedir."
+    },
+    {
+        "soru": "Öğrenciler için bireysel rehberlik görüşmesi nasıl yapılır?",
+        "cevap": "Rehber öğretmenlerden randevu alabilirsiniz."
+    },
+    {
+        "soru": "Kaybolan eşyalar ne kadar süre saklanır?",
+        "cevap": "Yaklaşık bir ay boyunca kayıp dolabında saklanır."
+    },
+    {
+        "soru": "Okul dışı başarılar için belge veriliyor mu?",
+        "cevap": "Hayır okul dışı başarılar için belge verilmiyor."
+    },
+    {
+        "soru": "Öğrenci proje yarışmalarına nasıl başvurur?",
+        "cevap": "Öğrenciler panolardan ve öğretmenlerin duyurularından yarışma süreçlerine dahil olabilirler."
+    },
+    {
+        "soru": "Öğrenciler okulun sosyal medya hesabında yer alabilir mi?",
+        "cevap": "Okula kayıt yaparken paylaşım için izin veren öğrencilerin paylaşımlarda yer alabilmektedir."
+    },
+    {
+        "soru": "Öğrenci sayısı kaçtır?",
+        "cevap": "750 öğrencidir."
+    },
+    {
+        "soru": "Okul bahçesi hafta sonu açık mı?",
+        "cevap": "Okul açık olduğu sürece bahçe kullanımı mümkündür."
+    },
+    {
+        "soru": "Öğrenci başka okuldan transfer olursa ne zaman başlar?",
+        "cevap": "Transfer süreci tamamlandıktan sonra ki gün öğrenci okula başlayabilir."
+    },
+    {
+        "soru": "Mezun öğrencilere tören düzenlenir mi?",
+        "cevap": "hayır düzenlenmemektedir. bunun yerine mezunlar pilav günümüz vardır."
+    },
+    {
+        "soru": "Öğrencinin özel ihtiyaçları için okulda destek var mı?",
+        "cevap": "Evet destek sağlanmaktadır, pdr birimi üzerinden başvuru yapılıp süreç takibi sağlanabilir."
+    },
+    {
+        "soru": "Öğrenci başka şehirden nakil gelirse ne yapmalı?",
+        "cevap": "Standart nakil prosedürü uygulanır."
+    },
+    {
+        "soru": "Öğrencinin kayıt yaşı tutmazsa istisna yapılır mı?",
+        "cevap": "İstisna yapılamaz, sistem izin vermez."
+    },
+    {
+        "soru": "Öğrenci yurt dışına taşınırsa nasıl belge alır?",
+        "cevap": "Online - E devlet üzerinden alabilir."
+    },
+    {
+        "soru": "Öğrencinin velisi yurt dışındaysa kim kayıt yaptırabilir?",
+        "cevap": "Vekalet verdiği aile üyeleri kayıt yaptırabilir."
+    },
+    {
+        "soru": "Öğrenci okul içinde çalıştırılabilir mi (temizlik vs.)?",
+        "cevap": "Hayır öğrenciler ders için okulda bulunmaktadırlar."
+    },
+    {
+        "soru": "Okulda Robotik kulubü var mıdır?",
+        "cevap": "Okulda aktif çalışan bir robotik takımı vardır."
+    },
+    {
+        "soru": "Emoner Robotics hakkında bilgi verir misin?",
+        "cevap": "Emoner Robotics takımı okulumuzun farklı kulvarlarda aktif olan yarışan robotik takımıdır."
+    },
+    {
+        "soru": "Okula toplu taşıma ile nasıl gelinir?",
+        "cevap": "Öğrenciler metro, İETT, metrobüs gibi çeşitli toplu taşıma araçlarıyla rahatlıkla gelebilirler. Güzergah detayları web sitemizde mevcuttur."
+    },
+    {
+        "soru": "Servis güzergahları hakkında bilgi veriri misin?",
+        "cevap": "Esenler - Bağcılar ve Bahçelievlere servisimiz vardır."
+    }
+]
